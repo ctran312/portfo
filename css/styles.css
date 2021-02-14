@@ -1,0 +1,37 @@
+body {
+    font-family: "Open Sans" , sans-serif;
+    background-color: rgb(192, 251, 255);
+}
+
+h1, h2, h3 {
+    font-family: "Lobster", cursive;
+}
+
+h2 {
+    color: #076d7a;
+}
+
+header h2 {
+    color: #4c7279
+}
+
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-image: linear-gradient(to right, #37ddb9, #30c0c5, #10596b);
+    color: white;
+}
+
+
+.carousel {
+    border: solid rgb(11, 108, 126);
+    margin:0;
+    padding: 20px;
+}
+
+.carousel-caption {
+    background-color: rgb(99, 178, 189);
+}
+#carouselButton {
+    position: relative;
+}
